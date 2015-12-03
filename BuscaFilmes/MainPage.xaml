@@ -42,11 +42,23 @@
         <!--TitlePanel contains the name of the application and page title-->
         <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28">
             <TextBlock Text="Busca Filmes" Style="{StaticResource PhoneTextNormalStyle}" Margin="12,0"/>
-            <TextBlock Text="Buscar Filme" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+            <TextBlock Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}">
+            	<Run Text="Busca"/>
+            	<Run Text="r"/>
+            	<Run Text=" Filme"/>
+            </TextBlock>
         </StackPanel>
 
         <!--ContentPanel - place additional content here-->
-        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="10,0,14,0">
+            <Button Content="Buscar Filme" HorizontalAlignment="Left" Margin="0,99,0,0" VerticalAlignment="Top" Width="446"/>
+            <TextBox Name="txt_filme" HorizontalAlignment="Left" Height="72" TextWrapping="Wrap" Text="&#xD;&#xA;" VerticalAlignment="Top" Width="446"/>
+            <TextBlock Name="status" HorizontalAlignment="Left" Margin="10,67,0,0" TextWrapping="Wrap" VerticalAlignment="Top">
+            	<Run Text="Faça"/>
+            	<Run Text=" sua busca"/>
+            	<LineBreak/>
+            	<Run/>
+            </TextBlock>
 
         </Grid>
 

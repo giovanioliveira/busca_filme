@@ -33,3 +33,6 @@ c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilme
 c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\obj\Debug\ProjectArchitectures.txt
 c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\obj\Debug\MDILProjectFiles.xml
 c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\obj\Debug\XapCacheFile.xml
+c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Bin\Debug\Newtonsoft.Json.dll
+c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Bin\Debug\Newtonsoft.Json.xml
+c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\obj\Debug\BuscaFilmes.csprojResolveAssemblyReference.cache

@@ -8,6 +8,8 @@ using System.Windows.Navigation;
 using Microsoft.Phone.Controls;
 using Microsoft.Phone.Shell;
 using BuscaFilmes.Resources;
+using BuscaFilmes.Classes;
+using Newtonsoft.Json.Linq;
 
 namespace BuscaFilmes
 {
@@ -20,6 +22,46 @@ namespace BuscaFilmes
 
             // Sample code to localize the ApplicationBar
             //BuildLocalizedApplicationBar();
+        }
+
+        public void BuscarFilme()
+        {
+            WebClient filmeClient = new WebClient();
+
+            filmeClient.DownloadStringCompleted += filmeClient_DownloadStringCompleted;
+
+            filmeClient.DownloadStringCompleted += new DownloadStringCompletedEventHandler(filmeClient_DownloadStringCompleted);
+
+            filmeClient.DownloadStringAsync(new Uri(@"http://www.omdbapi.com/?s=" + txt_filme.Text));
+
+        }
+
+        void filmeClient_DownloadStringCompleted(object sender, DownloadStringCompletedEventArgs e)
+        {
+            botar_json(e.Result);
+            throw new NotImplementedException();
+        }
+
+        public void botar_json(String json)
+        {
+            List<Filme> filmes = new List<Filme>();
+            if (json != null)
+            {
+                JObject jobject = JObject.Parse(json);
+                JObject achou_filme = (JObject)jobject["Response"];
+                if (achou_filme.Count == 1)
+                {
+                    status.Text = "Não achou";
+                }
+                else
+                {
+
+                }
+            }
+            else
+            {
+                status.Text = "Erro ao procurar Filmes";
+            }
         }
 
         // Sample code for building a localized ApplicationBar

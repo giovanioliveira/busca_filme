@@ -1,6 +1,6 @@
-﻿<xapCache source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Bin\Debug\BuscaFilmes_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="03/12/2015 21:33:01">
-  <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="03/12/2015 21:33:00" />
-  <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\obj\Debug\BuscaFilmes.dll" archivePath="BuscaFilmes.dll" lastWriteTime="03/12/2015 21:33:00" />
+﻿<xapCache source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Bin\Debug\BuscaFilmes_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="03/12/2015 22:35:58">
+  <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Bin\Debug\resources.pri" archivePath="resources.pri" lastWriteTime="03/12/2015 22:35:57" />
+  <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\obj\Debug\BuscaFilmes.dll" archivePath="BuscaFilmes.dll" lastWriteTime="03/12/2015 22:35:57" />
   <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="03/12/2015 21:32:58" />
   <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="03/12/2015 21:32:58" />
   <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="03/12/2015 21:32:58" />
@@ -13,10 +13,12 @@
   <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="03/12/2015 21:32:58" />
   <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="03/12/2015 21:32:58" />
   <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="03/12/2015 21:32:58" />
-  <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="03/12/2015 21:33:01" />
+  <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="03/12/2015 22:35:58" />
   <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="03/12/2015 21:32:58" />
   <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="03/12/2015 21:32:58" />
+  <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\packages\Newtonsoft.Json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="03/12/2015 22:16:41" />
+  <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\packages\Newtonsoft.Json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.xml" archivePath="Newtonsoft.Json.xml" lastWriteTime="03/12/2015 22:16:41" />
   <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="03/12/2015 21:33:01" />
-  <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="03/12/2015 21:33:01" />
-  <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="03/12/2015 21:33:00" />
+  <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\obj\Debug\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="03/12/2015 22:35:58" />
+  <file source="c:\users\giovani-wp\documents\visual studio 2013\Projects\BuscaFilmes\BuscaFilmes\Bin\Debug\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="03/12/2015 22:35:57" />
 </xapCache>
